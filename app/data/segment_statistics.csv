@@ -1,0 +1,9 @@
+,segment,customers,share_%,median_budget_gbp,top_regions,top_lead_sources,with_a_lead_%,conversion_%,win_rate_%,median_days_to_decision,median_sale_price_gbp,median_rent_pcm_gbp,share_of_sale_value_%,share_of_rent_roll_%,late_or_overdue_payments_%
+B0,Downsizers,6503,6.5,382500.0,"South East 26%, South West 19%, London 18%","No lead 37%, Rightmove 17%, Branch walk-in 12%",62.8,33.0,26.2,55.0,330500.0,,13.2,0.0,2.6
+B1,Home movers,17530,17.4,462500.0,"South East 28%, East of England 19%, South West 9%","No lead 39%, Rightmove 21%, Zoopla 8%",60.7,19.5,14.3,71.0,371000.0,,22.8,0.0,3.4
+B2,Window shoppers,14310,14.2,335000.0,"London 19%, South East 16%, North West 10%","No lead 83%, Rightmove 5%, Veltrix website 3%",17.2,8.5,8.1,62.0,317000.0,,2.1,0.0,3.3
+B3,First-time buyers,22337,22.2,240000.0,"North West 18%, Yorkshire and the Humber 14%, West Midlands 13%","No lead 26%, Rightmove 21%, Instagram 8%",73.6,18.0,11.9,80.0,258000.0,,24.2,0.0,3.7
+B4,Buy-to-let investors,12178,12.1,190000.0,"North West 21%, Yorkshire and the Humber 14%, North East 11%","Email newsletter 18%, Rightmove 17%, No lead 13%",86.7,33.5,18.9,43.0,244000.0,,28.0,0.0,3.1
+B5,Overseas investors,6830,6.8,585000.0,"Overseas 92%, London 4%, North West 1%","No lead 38%, Overseas agent partner 20%, Veltrix website 8%",62.3,17.0,12.3,71.0,458000.0,,9.7,0.0,8.0
+R0,Corporate relocation lets,3101,3.1,2800.0,"Overseas 35%, London 28%, South East 8%","No lead 37%, Relocation partner 36%, Referral 8%",62.8,45.8,37.6,14.0,,2800.0,0.0,35.1,1.4
+R1,Young renters,17784,17.7,1400.0,"London 27%, North West 14%, West Midlands 10%","No lead 45%, Rightmove 17%, Zoopla 8%",55.3,32.6,24.9,12.0,,1425.0,0.0,64.9,11.6
